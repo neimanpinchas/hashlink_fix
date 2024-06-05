@@ -1,6 +1,6 @@
 This repo is related to the following post on the haxe forum https://community.haxe.org/t/hashlink-access-violation-when-abstract-is-used-as-inerface/4250
 
-It comvers 2 mysteries, both of them are working properly in javascript, and in neko, but both are not working in hashlink.
+It covers 2 mysteries, both of them are working properly in javascript cpp, and in neko, but both are not working in hashlink.
 
  #1 `BigInt.fromStringWithBase("12345678912345678912345678909",10);` number is not parsed/initialized properly but as a small number, also multiplying give wrong results
 

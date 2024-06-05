@@ -1,0 +1,9 @@
+--main Main
+--hl test.hl
+--cmd hl test.hl
+#--neko test.n
+#--cmd neko test.n
+-L thx.core
+#--js test.js
+#--cmd node test.js
+
